@@ -9,7 +9,7 @@ Copyright 2015 Julian J. Gonzalez
 www.st2labs.com 
 Twitter: @ST2Labs | @rhodius | @seguridadxato2
 
-# Licencia
+# Licencia | License
 
 This is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

@@ -22,6 +22,8 @@ Passing shell=True can be a security hazard if combined with untrusted input (re
 
 # Example 3
 
+e3.py
+
 Ejecutar y mostrar el resultado de listar los archivos de un directorio "ls -ls", utilizando parametrización del comando y usando tuberías en lugar de ejecución directa en la SHELL, es una forma más segura de ejecutar comandos directamente en sistema, evitando ataques de COMMAND OS Injection sobre vuestro código, claro esta que esto es meramente un ejemplo didáctico y las diferencias entre los ejemplos son minimamente significativas.
 
 Blog_ www.seguridadparatodos.es

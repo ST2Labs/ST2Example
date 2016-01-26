@@ -14,7 +14,7 @@ Esqueleto de aplicación que gestiona una conexión entrante TCP (IP:Port). Qued
   - Ejecución de Comandos del Sistema
   - Inyección de Shell Remota
 
-# conf_nob64.ini
+## conf_nob64.ini
 
 Es un ejemplo de la configuración del fichero JSON que espera la aplicación, pero éste no esta codificado. La aplicación rsh.py espera un fichero de texto codificado en Base 64 con una configuración JSON.
 
